@@ -1,4 +1,4 @@
-# [Sketch] `Color` base class & conversions between `RGB`, `RGB8`, `HSL` 
+# [Sketch] `Color` base class & conversions to `RGB`, `RGB8`, `HSL` 
 C++ 17. Sketch of a virtual `Color` class to represent and transform between diffrent color formats. 
 
 Available formats:
