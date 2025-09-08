@@ -3,7 +3,7 @@
 
 	DownSampler.h
 	Created: 12 May 2019 2:55:02pm
-	Author:  zbook15
+	Author:  Anton Yahchenko
 
   ==============================================================================
 */
