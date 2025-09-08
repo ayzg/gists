@@ -3,7 +3,7 @@
 
 	Compressor.cpp
 	Created: 10 Feb 2019 3:04:24am
-	Author:  zbook15
+	Author: Anton Yashchenko
 
   ==============================================================================
 */
