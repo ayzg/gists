@@ -3,6 +3,7 @@
 #include <functional>
 #include <string_view>
 #include <utility>
+
 // https://stackoverflow.com/questions/41723704/how-to-filter-a-stdinteger-sequence
 template <std::size_t... s, std::size_t... t>
 constexpr auto concat_sequence(std::index_sequence<s...>,
