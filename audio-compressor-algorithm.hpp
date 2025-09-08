@@ -37,9 +37,4 @@ class Compressor {
 	{
 		x_v = (1 - mix_ratio) * (-((1 - limit_ratio) * envelope * (std::abs(x_v) - threshold) / mix_ratio) - limit_ratio * (abs(x_v) - threshold) + x_v) + mix_ratio * x_v;
 	}
-
-	void process_anvelope(double* x_p)
-	{
-
-	}
 };
