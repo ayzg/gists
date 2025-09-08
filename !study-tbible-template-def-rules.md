@@ -1,1 +1,2 @@
-# study-tbible-template-def-rules
+# [Study] Basic Template Definition Rules
+C++17.
