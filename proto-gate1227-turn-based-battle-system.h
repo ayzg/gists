@@ -1,6 +1,11 @@
 #pragma once
-#pragma once
+#include <array>
+#include <stack>
+#include <utility>
+#include <vector>
+#include <cstdarg>
 #include <list>
+#include <iostream>
 
 struct RawStat
 {
@@ -109,21 +114,8 @@ class StatSet
 {
 	std::list<RawStat*> raw_stats_;
 	std::list<RawPctStat*> raw_pct_stats_;
-
-
-
-
-
 };
 
-#pragma once
-#include <array>
-#include <stack>
-#include <utility>
-#include <vector>
-#include <cstdarg>
-#include <list>
-#include <iostream>
 
 class Damage
 {
