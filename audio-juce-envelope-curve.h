@@ -3,7 +3,7 @@
 
 	Envelope.h
 	Created: 30 Jan 2019 1:04:20am
-	Author:  zbook15
+	Author:  Anton Yashchenko
 
   ==============================================================================
 */
