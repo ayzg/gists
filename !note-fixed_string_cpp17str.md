@@ -1,2 +1,2 @@
 # C++ constexpr string literal
-C++17.
+C++17. 
