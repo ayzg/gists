@@ -1,2 +1,2 @@
-# C++20 alternative to `std::expected` : `BoolError`, `Expected` and `PartialExpected`
+# [Note] C++20 alternative to `std::expected` : `BoolError`, `Expected` and `PartialExpected`
 An alternative to C++23's `std::expected` class for C++20. Made for `C& Language`, with the goal of minimal(no) exceptions and value-based errors in the codebase.
