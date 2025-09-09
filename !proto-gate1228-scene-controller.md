@@ -1,1 +1,2 @@
-# proto-gate1228-scene-controller
+# [Sketch][Incomplete] SFML `SceneController` class.
+C++17.
