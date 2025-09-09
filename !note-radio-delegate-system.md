@@ -1,1 +1,2 @@
-# note-radio-delegate-system
+# [Sketch][Incomplete] Radio Delegate System
+C++20.
