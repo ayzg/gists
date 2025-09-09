@@ -1,1 +1,2 @@
-# note-ct_value_list
+# [Study] Compile time value list
+Study notes from "C++ Templates: The Complete Guide".
