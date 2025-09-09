@@ -1,1 +1,2 @@
-# note-hetero_method_map
+# [Note] Heterogeneous Method Map Container
+C++20.
