@@ -1,1 +1,2 @@
-# note-fixed_string_cpp17str
+# C++ constexpr string literal
+C++17.
